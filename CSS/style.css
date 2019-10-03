@@ -1,0 +1,51 @@
+body {margin: 0;
+    padding:0;
+    background-color: #D3D2D7;
+  }
+  
+header {
+    background-color: #D3D2D7;
+}
+
+.logo {
+    height: 80px;
+}
+
+#logo {
+    float: left;
+    width: auto;
+    height: auto;
+    margin-top: 5px;
+    max-height: 60px;
+}
+.bg-orange {
+    
+    background-color: #EE603D;
+}
+.nav-link {
+        color: white!important;
+}
+.navigacija li{
+    width:215px;
+    text-align: center;
+}
+.drugi, .glavni {
+    background-color: #FED035;
+}
+.treci{
+    background-color: white;
+}
+.siva {
+background-color: #D3D2D7;
+border: 10px solid;
+color:white;
+border-color:white!important;
+}
+
+.bojaslova{
+    color:gray!important
+}
+
+.cetvrti{
+    background-color: red;
+    color:white}
